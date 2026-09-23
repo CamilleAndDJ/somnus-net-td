@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edfd104f06f2d6c4ab3d82e5d33004bb, type: 3}
+  m_Name: Glitch_ShellGlitch
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.GlitchDefinition
+  kind: 2
+  displayName: Shell Glitch
+  fantasyNote: "Wears corrupted packet armor \u2014 soak damage"
+  sprite: {fileID: 4764511624752440219, guid: f8b21c4f42fe11d4d9b462ddc0e4f8c9, type: 2}
+  shellOverlaySprite: {fileID: 192307389858137033, guid: f62ed5041731bde42806601d3dc58d77, type: 2}
+  maxHealth: 80
+  shellHealth: 140
+  moveSpeed: 0.28
+  biteDamage: 12
+  biteInterval: 0.9
+  ponderReward: 5
+  visualScaleMultiplier: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edfd104f06f2d6c4ab3d82e5d33004bb, type: 3}
+  m_Name: Glitch_GlitchMite
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.GlitchDefinition
+  kind: 0
+  displayName: Glitch Mite
+  fantasyNote: "A tiny corruption speck \u2014 slow but steady"
+  sprite: {fileID: -1567325724745974010, guid: 42362286a17ba9d44a6b0a3d3f66adf8, type: 2}
+  shellOverlaySprite: {fileID: 0}
+  maxHealth: 90
+  shellHealth: 0
+  moveSpeed: 0.32
+  biteDamage: 12
+  biteInterval: 0.9
+  ponderReward: 5
+  visualScaleMultiplier: 1

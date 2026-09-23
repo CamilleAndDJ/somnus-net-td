@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e5f30bcb7cd5944a11fa3422e3fad4, type: 3}
+  m_Name: Blob_Cheerful
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.BlobDefinition
+  kind: 7
+  displayName: Cheerful
+  typeLabel: Slimy Support
+  typeLabels:
+  - Slimy Support
+  - Entertainer
+  verbDescription: "Cheer \u2014 buffs a nearby Best Friend"
+  ponderCost: 90
+  sprite: {fileID: 2190582956351746165, guid: 9ad4f8e3f4e948d458ce4080519e4774, type: 2}
+  maxHealth: 0
+  attackDamage: 0
+  attackInterval: 1.1
+  rangeSize: 1
+  projectileDamage: 0
+  fireInterval: 2
+  projectileSpeed: 8
+  shotsPerVolley: 1
+  slowDuration: 0
+  slowMultiplier: 1
+  novaDamage: 999
+  novaRadius: 1.8
+  novaArmDelay: 0.4

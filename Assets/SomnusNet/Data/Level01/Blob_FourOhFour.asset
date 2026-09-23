@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e5f30bcb7cd5944a11fa3422e3fad4, type: 3}
+  m_Name: Blob_FourOhFour
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.BlobDefinition
+  kind: 2
+  displayName: 404
+  typeLabel: Dream Team
+  typeLabels:
+  - Dream Team
+  - Absent History
+  verbDescription: "Absent \u2014 long-range pressure with slow volleys"
+  ponderCost: 80
+  sprite: {fileID: -8715192507160213218, guid: 3be3b4e84fbdfec448d965b1c0f37f53, type: 2}
+  maxHealth: 0
+  attackDamage: 0
+  attackInterval: 1.1
+  rangeSize: 7
+  projectileDamage: 18
+  fireInterval: 2.1
+  projectileSpeed: 8
+  shotsPerVolley: 1
+  slowDuration: 0
+  slowMultiplier: 1
+  novaDamage: 999
+  novaRadius: 1.8
+  novaArmDelay: 0.4

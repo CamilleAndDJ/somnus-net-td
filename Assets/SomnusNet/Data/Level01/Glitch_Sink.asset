@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edfd104f06f2d6c4ab3d82e5d33004bb, type: 3}
+  m_Name: Glitch_Sink
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.GlitchDefinition
+  kind: 6
+  displayName: Sink
+  fantasyNote: "Mini boss \u2014 surges at double speed"
+  sprite: {fileID: -3743943485676428657, guid: cb32c3db29085e7449db0e9216f04966, type: 2}
+  shellOverlaySprite: {fileID: 0}
+  maxHealth: 85
+  shellHealth: 0
+  moveSpeed: 0.7
+  biteDamage: 12
+  biteInterval: 0.9
+  ponderReward: 5
+  visualScaleMultiplier: 1.22

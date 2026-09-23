@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 744de076f7602b341be70a8daa6c4f02, type: 3}
+  m_Name: Level01_Waves
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.LevelWaveSet
+  levelTitle: "Level 01 \u2014 First Breach"
+  briefing: The Bug Swarm infects the Somnus Net. +1 Ponder/s, +5 per defeat. Defeat
+    10 glitches to win. The 10th spawn each round is a random mini boss.
+  delayBetweenWaves: 14
+  spawns:
+  - glitch: 0
+    lane: 2
+    delayFromWaveStart: 8
+  - glitch: 0
+    lane: 1
+    delayFromWaveStart: 22
+  - glitch: 1
+    lane: 3
+    delayFromWaveStart: 38
+  - glitch: 0
+    lane: 0
+    delayFromWaveStart: 52
+  - glitch: 0
+    lane: 4
+    delayFromWaveStart: 54
+  - glitch: 2
+    lane: 2
+    delayFromWaveStart: 68
+  - glitch: 3
+    lane: 1
+    delayFromWaveStart: 82
+  - glitch: 3
+    lane: 3
+    delayFromWaveStart: 84
+  - glitch: 1
+    lane: 0
+    delayFromWaveStart: 96
+  - glitch: 0
+    lane: 2
+    delayFromWaveStart: 108

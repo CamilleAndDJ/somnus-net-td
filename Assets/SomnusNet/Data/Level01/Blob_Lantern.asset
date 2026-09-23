@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e5f30bcb7cd5944a11fa3422e3fad4, type: 3}
+  m_Name: Blob_Lantern
+  m_EditorClassIdentifier: Assembly-CSharp::SomnusNet.Data.BlobDefinition
+  kind: 10
+  displayName: Lantern
+  typeLabel: Bench Trio
+  typeLabels:
+  - Bench Trio
+  - Absent History
+  verbDescription: "Pulse \u2014 grants Looped Sight to nearby blobs"
+  ponderCost: 92
+  sprite: {fileID: -3099369242929600489, guid: afd85d51b2494a808d39ac741d70795f, type: 2}
+  maxHealth: 0
+  attackDamage: 0
+  attackInterval: 1.1
+  rangeSize: 3
+  projectileDamage: 0
+  fireInterval: 2.2
+  projectileSpeed: 8
+  shotsPerVolley: 1
+  slowDuration: 0
+  slowMultiplier: 1
+  novaDamage: 999
+  novaRadius: 1.8
+  novaArmDelay: 0.4

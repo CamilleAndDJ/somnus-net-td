@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SomnusNet/Scenes/MainMenu.unity
+    guid: f6a7b8c9daeb488990a1b2c3d4e5f606
+  - enabled: 1
+    path: Assets/SomnusNet/Scenes/StoryMode1.unity
+    guid: 0c01e988991390b49b2ef804311588af
+  - enabled: 1
+    path: Assets/SomnusNet/Scenes/StoryMode2.unity
+    guid: 1d12f099992401c59c3ef915422699bf
+  - enabled: 1
+    path: Assets/SomnusNet/Scenes/WorldMap.unity
+    guid: a1b2c3d4e5f647889900aabbccddeeff
+  - enabled: 1
+    path: Assets/SomnusNet/Scenes/AllFeaturesLevel.unity
+    guid: 7d3e8f1a2b4c5d6e9f0a1b2c3d4e5f6a
+  m_configObjects: {}

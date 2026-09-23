@@ -1,0 +1,22 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.4/staging' branch; Version is '6000.4.9f1 (f7258d6eebbe) revision 16197005'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'en' Physical Memory: 16078 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Camille Lin" at "2026-06-03T16:32:04.0377987Z"
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-03T16:32:04Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.4.9f1\Editor\Unity.exe
+-batchmode
+-quit
+-projectPath
+C:\Users\Camille Lin\Projects\somnus-net-td
+-executeMethod
+SomnusNet.Editor.LevelOneSetup.CreateAll
+-logFile
+C:\Users\Camille Lin\Projects\somnus-net-td\setup.log
+Successfully changed project path to: C:\Users\Camille Lin\Projects\somnus-net-td
+C:/Users/Camille Lin/Projects/somnus-net-td
+Exiting without the bug reporter. Application will terminate with return code 1
